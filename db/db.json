@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "name": "Sulky",
+      "email": "sulky.com",
+      "id": 4
+    },
+    {
+      "id": "1",
+      "name": "asdfegfgg",
+      "email": "wdssdd"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "uersId": 1
+    }
+  ]
+}

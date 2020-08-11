@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Ildi",
+      "email": "raczc",
+      "id": 3
+    }, {
+      "name": "Sulky",
+      "email": "sulky.com",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "anyag",
+      "email": "ratsts"
+    },
+    {
+      "id": 6,
+      "name": "tysonka",
+      "email": "tyson.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "uersId": 1
+    }
+  ]
+}
